@@ -1,0 +1,83 @@
+//brightspiral.com/tracery
+
+{
+	"origin": [
+		"The #daytime# will #starttime# #generalisation# #weather1#. It will also be #weather2# with #descriptor1# #wind# developing by #endtime#. "
+	],
+	"daytime": [
+		"day",
+		"night",
+		"morning",
+		"evening",
+		"afternoon"
+	],
+	"generalisation": [
+		"largely",
+		"mostly",
+		"kind of",
+		"unbearably",
+		"excessively",
+		"not very",
+		"ridiculously",
+		"extremely"
+	],
+	"descriptor1": [
+		"strong",
+		"extreme",
+		"insane",
+		"bastardous"
+	],
+	"starttime": [
+		"be",
+		"start off",
+		"end up"
+	],
+	"endtime": [
+		"4pm",
+		"5pm",
+		"the end of the week",
+		"the evening",
+		"the afternoon",
+		"nighttime",
+		"teatime",
+		"dinner",
+		"6pm",
+		"7pm",
+		"8pm",
+		"midnight",
+		"bath-time"
+	],
+	"weather2": [
+		"windy",
+		"sunny",
+		"icy",
+		"gusty",
+		"breezy",
+		"drizzly",
+		"stormy",
+		"rainy",
+		"dry",
+		"hot"
+	],
+	"weather1": [
+		"dry",
+		"wet",
+		"sticky",
+		"humid",
+		"drizzly",
+		"brisk",
+		"gusty",
+		"icy",
+		"sunny",
+		"",
+		"warm",
+		"hot"
+	],
+	"wind": [
+		"gusts",
+		"winds",
+		"breezes",
+		"tornadoes",
+		"heat"
+	]
+}
