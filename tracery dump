@@ -19,18 +19,39 @@
 		"excessively",
 		"not very",
 		"ridiculously",
-		"extremely"
+		"extremely",
+		"on the whole",
+		"generally",
+		"predominantly",
+		"very",
+		"slightly",
+		"somewhat",
+		"moderately",
+		"vaguely",
+		"a little bit",
+		"rather",
+		"sort of"
 	],
 	"descriptor1": [
 		"strong",
 		"extreme",
 		"insane",
-		"bastardous"
+		"bastardous",
+		"pleasant",
+		"severe",
+		"intense",
+		"powerful",
+		"minor",
+		"negligible",
+		"insignificant",
+		"significant"
 	],
 	"starttime": [
 		"be",
 		"start off",
-		"end up"
+		"end up",
+		"begin",
+		"finish off"
 	],
 	"endtime": [
 		"4pm",
@@ -45,7 +66,14 @@
 		"7pm",
 		"8pm",
 		"midnight",
-		"bath-time"
+		"bath-time",
+		"9pm",
+		"10pm",
+		"11pm",
+		"the late night",
+		"the early morning",
+		"dusk",
+		"sunset"
 	],
 	"weather2": [
 		"windy",
@@ -57,7 +85,25 @@
 		"stormy",
 		"rainy",
 		"dry",
-		"hot"
+		"hot",
+		"wet",
+		"humid",
+		"warm",
+		"hot",
+		"foggy",
+		"overcast",
+		"bright",
+		"fair",
+		"mild",
+		"chilly",
+		"cold",
+		"cool",
+		"frosty",
+		"bitter",
+		"stormy",
+		"calm",
+		"cloudy",
+		"misty"
 	],
 	"weather1": [
 		"dry",
@@ -70,13 +116,44 @@
 		"icy",
 		"sunny",
 		"warm",
-		"hot"
+		"hot",
+		"windy",
+		"breezy",
+		"stormy",
+		"foggy",
+		"overcast",
+		"bright"
 	],
 	"wind": [
 		"gusts",
 		"winds",
 		"breezes",
 		"tornadoes",
-		"heat"
+		"mudflows",
+		"flash floods",
+		"floods",
+		"lava flows",
+		"earthquakes",
+		"landslides",
+		"storms",
+		"snow",
+		"blizzards",
+		"radiation",
+		"tropical storms",
+		"avalanches",
+		"permafrost",
+		"urban pollution",
+		"whirlwinds",
+		"constant rain",
+		"drizzle",
+		"hail",
+		"rainbows",
+		"fog",
+		"mist",
+		"smog",
+		"thunderstorms",
+		"lightning",
+		"frost",
+		"snowstorms"
 	]
 }
